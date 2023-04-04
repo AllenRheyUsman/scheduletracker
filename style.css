@@ -6,9 +6,12 @@ body {
 }
 .section {
     margin: auto;
-    width: 100px;
+    width: 280px;
     background-color: blanchedalmond;
     padding: 100px;
     margin-top: 200px;
     border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
